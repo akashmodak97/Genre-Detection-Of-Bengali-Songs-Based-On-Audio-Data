@@ -2,7 +2,7 @@
 **Genre Detection of Bengali Rabindranath Tagore's Song Based On Audio Data. The dataset of songs was provided by [Society For Natural Language Technology Research](https://nltr.org/)**
 
 
-**_I'm not providing the dataset due to privacy issues._**
+**_I'm not providing the songs' dataset due to privacy issues._**
 
 I extracted the audio features using Python [Librosa](https://github.com/librosa/librosa) Library.
 
